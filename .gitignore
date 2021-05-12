@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data folder too big
+data/
+
+# junk files
+.DS_Store
+
