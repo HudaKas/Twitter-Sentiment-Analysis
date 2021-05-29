@@ -134,3 +134,15 @@ data/
 # junk files
 .DS_Store
 
+# add notebooks
+analysis notebook.ipynb
+another try.ipynb
+Monday_may_24.ipynb
+tweet analyzer.ipynb
+Tweets.ipynb
+Untitled.ipynb
+Untitled1.ipynb
+Untitled2.ipynb
+3.ipynb	
+4.ipynb
+4-Copy1.ipynb
