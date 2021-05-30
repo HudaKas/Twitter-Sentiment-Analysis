@@ -1,6 +1,6 @@
 # Twitter-Sentiment-Analysis
 
-![Twitter gif from giphy](https://media.giphy.com/media/6h8jgwC3dU6vS/giphy.gif)
+![Twitter gif from giphy]<img src="https://media.giphy.com/media/6h8jgwC3dU6vS/giphy.gif" width="900">
 
 ## Business Problem
 Apple and Google both hired a data scientist to build a machine learning model to analyze tweets that people shared their products during the 2011 SXSW Tech Conference. The algorithm will predict whether a customer is satisfied or not from the tweet, so both companies can improve the customer’s experience.
@@ -20,15 +20,18 @@ The data is imbalanced and skewed towards the neutral sentiment
 
 ![](images/Sentiment%20Distribution.png)
 
+**Sentiments per Product**
+ * All the products mostly have positive reviews associated with them.
+ * Iphone has the highest proportions of negative sentiments of all products.
+ * The neutral (no emotion,I can't tell) sentiment has a very small proportion in the entire data spread, which is contradictary to our original data. It means, that a lot of rows where product is null, the sentiment is neutral.
+![](images/Products%20Count.png)
 
-**Customers are more likely to leave if they call customer service more than three times**
+**Features(words) importance**
 
+Features (words) are being used by the model to make the positive and negative classifications from a sentiment dataset
 
-![](Images/Customer_Services_calls.png)
+![](images/feature.png)
 
-** Features (words) importance
-
-![](images/feature_importance.png)
 
 ### Conclusions
 
