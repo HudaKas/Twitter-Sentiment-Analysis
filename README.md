@@ -1,6 +1,6 @@
 # Twitter-Sentiment-Analysis
 
-![Twitter gif from giphy]<img src="https://media.giphy.com/media/6h8jgwC3dU6vS/giphy.gif" width="900">
+<img src="https://media.giphy.com/media/6h8jgwC3dU6vS/giphy.gif" width="900">
 
 ## Business Problem
 Apple and Google both hired a data scientist to build a machine learning model to analyze tweets that people shared their products during the 2011 SXSW Tech Conference. The algorithm will predict whether a customer is satisfied or not from the tweet, so both companies can improve the customer’s experience.
